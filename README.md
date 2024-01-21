@@ -16,3 +16,5 @@ In the given set of VCF files, I have indexed the VCF files further and extracte
 **Project - 05 (RNA - Seq and Differential Gene Expression analysis)**
 I have taken Huntington Disease as my intrest of research and downloaded the data. Performed Quality Control for the selected disease (PRE-QC & POST-QC). Also, perfored multiQC. RNA - Seq analysis: Alignment and quantify, by using SALMON tool. I have preformed RNA Quantification and Differential gene expression. Used R-studio for the visualization and provided the volcano plots.
 
+**Project - 06 (Introduction to single cell gene expression analysis)**
+Got the raw data files from the database. And performed the quality control and normalisation to get the scatter plot. Dimensionality reduction and clustering with the given data and ploted PCA and UMAP to find the clusters. Identified specific genes, gene expression values and given a plot.
